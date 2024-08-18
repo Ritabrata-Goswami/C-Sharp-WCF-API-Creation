@@ -1,0 +1,7 @@
+D:\Working\C#\WcfServiceAPI\WcfServiceAPI\bin\WcfServiceAPI.dll.config
+D:\Working\C#\WcfServiceAPI\WcfServiceAPI\bin\WcfServiceAPI.dll
+D:\Working\C#\WcfServiceAPI\WcfServiceAPI\bin\WcfServiceAPI.pdb
+D:\Working\C#\WcfServiceAPI\WcfServiceAPI\obj\Debug\WcfServiceAPI.csproj.AssemblyReference.cache
+D:\Working\C#\WcfServiceAPI\WcfServiceAPI\obj\Debug\WcfServiceAPI.csproj.CoreCompileInputs.cache
+D:\Working\C#\WcfServiceAPI\WcfServiceAPI\obj\Debug\WcfServiceAPI.dll
+D:\Working\C#\WcfServiceAPI\WcfServiceAPI\obj\Debug\WcfServiceAPI.pdb
