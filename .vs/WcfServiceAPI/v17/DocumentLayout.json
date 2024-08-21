@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Working\\C#\\WcfServiceAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82322F80-34E4-4B07-949F-9933F9FDD668}|WcfServiceAPI\\WcfServiceAPI.csproj|d:\\working\\c#\\wcfserviceapi\\wcfserviceapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{82322F80-34E4-4B07-949F-9933F9FDD668}|WcfServiceAPI\\WcfServiceAPI.csproj|solutionrelative:wcfserviceapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{82322F80-34E4-4B07-949F-9933F9FDD668}|WcfServiceAPI\\WcfServiceAPI.csproj|D:\\Working\\C#\\WcfServiceAPI\\wcfserviceapi\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82322F80-34E4-4B07-949F-9933F9FDD668}|WcfServiceAPI\\WcfServiceAPI.csproj|solutionrelative:wcfserviceapi\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82322F80-34E4-4B07-949F-9933F9FDD668}|WcfServiceAPI\\WcfServiceAPI.csproj|d:\\working\\c#\\wcfserviceapi\\wcfserviceapi\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82322F80-34E4-4B07-949F-9933F9FDD668}|WcfServiceAPI\\WcfServiceAPI.csproj|solutionrelative:wcfserviceapi\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82322F80-34E4-4B07-949F-9933F9FDD668}|WcfServiceAPI\\WcfServiceAPI.csproj|d:\\working\\c#\\wcfserviceapi\\wcfserviceapi\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82322F80-34E4-4B07-949F-9933F9FDD668}|WcfServiceAPI\\WcfServiceAPI.csproj|solutionrelative:wcfserviceapi\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82322F80-34E4-4B07-949F-9933F9FDD668}|WcfServiceAPI\\WcfServiceAPI.csproj|d:\\working\\c#\\wcfserviceapi\\wcfserviceapi\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82322F80-34E4-4B07-949F-9933F9FDD668}|WcfServiceAPI\\WcfServiceAPI.csproj|solutionrelative:wcfserviceapi\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82322F80-34E4-4B07-949F-9933F9FDD668}|WcfServiceAPI\\WcfServiceAPI.csproj|D:\\Working\\C#\\WcfServiceAPI\\wcfserviceapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{82322F80-34E4-4B07-949F-9933F9FDD668}|WcfServiceAPI\\WcfServiceAPI.csproj|solutionrelative:wcfserviceapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\Working\\C#\\WcfServiceAPI\\WcfServiceAPI\\Class.cs",
+              "RelativeDocumentMoniker": "WcfServiceAPI\\Class.cs",
+              "ToolTip": "D:\\Working\\C#\\WcfServiceAPI\\WcfServiceAPI\\Class.cs",
+              "RelativeToolTip": "WcfServiceAPI\\Class.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:08:11.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\Working\\C#\\WcfServiceAPI\\WcfServiceAPI\\Web.config",
               "RelativeDocumentMoniker": "WcfServiceAPI\\Web.config",
               "ToolTip": "D:\\Working\\C#\\WcfServiceAPI\\WcfServiceAPI\\Web.config",
               "RelativeToolTip": "WcfServiceAPI\\Web.config",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-08-18T17:57:03.006Z",
               "EditorCaption": ""
@@ -45,20 +62,20 @@
               "RelativeDocumentMoniker": "WcfServiceAPI\\IService1.cs",
               "ToolTip": "D:\\Working\\C#\\WcfServiceAPI\\WcfServiceAPI\\IService1.cs",
               "RelativeToolTip": "WcfServiceAPI\\IService1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAmwA0AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T17:54:22.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Service1.svc.cs",
               "DocumentMoniker": "D:\\Working\\C#\\WcfServiceAPI\\WcfServiceAPI\\Service1.svc.cs",
               "RelativeDocumentMoniker": "WcfServiceAPI\\Service1.svc.cs",
               "ToolTip": "D:\\Working\\C#\\WcfServiceAPI\\WcfServiceAPI\\Service1.svc.cs",
               "RelativeToolTip": "WcfServiceAPI\\Service1.svc.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAmwA0AAAAFAAAA",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAYwIMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T17:52:42.154Z",
               "EditorCaption": ""

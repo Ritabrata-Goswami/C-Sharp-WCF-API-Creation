@@ -23,6 +23,24 @@ namespace WcfServiceAPI
         [OperationContract]
         [WebInvoke(Method = "GET", UriTemplate = "/PayBill/{PayId}", BodyStyle = WebMessageBodyStyle.Wrapped, RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json)]
         string PayBill(string PayId);
+
+
+        [OperationContract]
+        [WebInvoke(Method = "POST", UriTemplate = "/Insert", RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json)]
+        MessageResponse InsertData(WCF_Enter enter);
+
+        [OperationContract]
+        [WebInvoke(Method = "GET", UriTemplate = "/GetAllData", BodyStyle = WebMessageBodyStyle.Wrapped, RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json)]
+        List<WCF_Enter> GetAllData();
+
+        [OperationContract]
+        [WebInvoke(Method = "GET", UriTemplate = "/GetSpecificData/{id}", BodyStyle = WebMessageBodyStyle.Wrapped, RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json)]
+        List<WCF_Enter> GetSpecificData(string id);
+
+        [OperationContract]
+        [WebInvoke(Method = "POST", UriTemplate = "/deleteData", RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json)]
+        MessageResponse deleteData(DeleteRequest Id);
     }
+ 
 
 }
